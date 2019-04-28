@@ -1,5 +1,7 @@
 # Notes for "Hands-On Machine Learning with Scikit-Learn &amp; TensorFlow"
 
+[Jupyter Notebook for the Regression Model](regression/regression-model.ipynb)
+
 ## Data evaluation
 
 First, consider plotting histograms for each feature and label values in order to learn about data ranges and distributions:
